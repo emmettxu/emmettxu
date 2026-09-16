@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Emmett Xu 👋
 
-<!--
-**emmettxu/emmettxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer & AI Builder
 
-Here are some ideas to get you started:
+> Turning ideas into useful products with code and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer focused on building practical web applications, digital products, and AI-powered tools.
+
+I enjoy turning ideas into working products — from frontend and backend development to databases, APIs, deployment, and AI integration.
+
+## 🛠 Tech Stack
+
+**Frontend**
+Vue · JavaScript · TypeScript · HTML · CSS
+
+**Backend**
+C# · .NET · ASP.NET Core · REST APIs
+
+**Data**
+MySQL · SQL · Entity Framework Core
+
+**AI & Tools**
+Python · AI APIs · Docker · Git
+
+## 🚀 What I Build
+
+* Full-stack web applications
+* Backend APIs and business systems
+* AI-powered tools and applications
+* SaaS and MVP products
+* Developer tools and automation
+
+## 🤖 Building with AI
+
+AI is part of my development workflow.
+
+I use AI to help design, build, debug, and improve software more efficiently, while also exploring practical ways to integrate AI into real products and applications.
+
+## 📌 Featured Projects
+
+### Booking Management API
+
+A backend API built with ASP.NET Core, Entity Framework Core, REST APIs, automated tests, and CI.
+
+`C#` · `.NET 8` · `ASP.NET Core` · `EF Core` · `xUnit`
+
+More projects coming soon.
+
+## 🌱 Currently Building
+
+* Full-stack applications
+* AI-powered products
+* SaaS and MVP projects
+* Automation tools
+* Cloud deployment skills
+
+## 🤝 Work With Me
+
+I'm currently working independently and open to freelance projects, product collaborations, and software development opportunities.
+
+## 📫 Connect
+
+* LinkedIn: Coming soon
+* Website: Coming soon
+* X: Coming soon
+
+---
+
+**Turning ideas into useful products with code and AI.**
