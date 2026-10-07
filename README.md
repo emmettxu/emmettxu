@@ -60,8 +60,8 @@ I'm currently working independently and open to freelance projects, product coll
 
 ## 📫 Connect
 
-* LinkedIn: Coming soon
-* Website: Coming soon
+* LinkedIn: https://www.linkedin.com/in/emmettxu/
+* Website: https://emmettxu.com/
 * X: Coming soon
 
 ---
